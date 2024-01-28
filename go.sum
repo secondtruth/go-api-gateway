@@ -1,0 +1,6 @@
+github.com/haoxins/rewrite v0.1.0 h1:V8hFBHQpY+kdthYkVbcj0Z2zF7QQuWGr8UD+4MTltec=
+github.com/haoxins/rewrite v0.1.0/go.mod h1:7KnUJVm4NBix7ya2KxkTvrAtqzie4cHMNjEYguf3Glw=
+github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
+github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
+github.com/secondtruth/go-reverse-proxy v0.0.0-20240206001817-c3ec85c3254a h1:NfFXx3dW6jzX7avRjONt6fYOlK1yOoiMnlkS3U1cUQs=
+github.com/secondtruth/go-reverse-proxy v0.0.0-20240206001817-c3ec85c3254a/go.mod h1:QxGleB0BRgX0e+U/RlsEgYP0F5sQt8rcMaXo+itWfOM=
